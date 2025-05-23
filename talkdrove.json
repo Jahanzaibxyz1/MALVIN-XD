@@ -7,7 +7,7 @@
     "owner-verification":"malvink003@gmail.com",
   
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {malvin~F6t0ASYY#uyYGFIiMJKIPuZ2W5J8qODVT9dy-JhgTqANlWGtx9nk
       "description": "Must Start with 'malvin~'",
       "required": true,
       "value": ""
